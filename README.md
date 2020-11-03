@@ -1,3 +1,3 @@
 # MyGitrepository
 
-A test code is shared to do multiple tasks
+A default repository to deposit unstructured and temporary files.
